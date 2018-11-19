@@ -48,7 +48,7 @@ describe('Donationss', function (){
                 });
         });
     });
-    describe('POST /donations', function () {
+    /*describe('POST /donations', function () {
         it('should return confirmation message and update datastore', function(done) {
             var donation = {
                 paymenttype: 'Visa' ,
@@ -106,5 +106,5 @@ describe('Donationss', function (){
         });
 
     });
-
+*/
 });
